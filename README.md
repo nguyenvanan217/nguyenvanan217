@@ -16,7 +16,7 @@
 
 ---
 
-### 👥 Founder & Core Developer of <TAT TEAM/>
+### 👥 Founder & Core Developer of &lt;TAT TEAM/&gt;
 Building and developing full-stack web projects, including client-requested features and custom solutions.  
 Key responsibilities:
 
@@ -24,7 +24,6 @@ Key responsibilities:
 - Database design and implementing **security measures**  
 - Deploying and managing systems with **access control**  
 - Collaborating in a team using **Git/GitHub workflows**  
-- Delivering **customized solutions for clients**  
 
 🔗 Organization: https://github.com/TAT-GROUP
 
