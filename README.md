@@ -6,7 +6,8 @@
 ⚙️ **Backend:** Node.js, Express (RESTful APIs)  
 🗄️ **Database:** SQL, ORM (Drizzle, Sequelize)  
 🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DoS, Authentication & Authorization ...  
-🛠️ **Others:** Git/GitHub, VPS Deployment  
+🛠️ **Tools:** Git/GitHub, Docker  
+🚀 **DevOps / Deployment:** VPS Deployment
 
 ### 🔎 Additional Knowledge (basic)
 ⚙️ **Backend:** Java Servlet, Spring Boot, PHP  
