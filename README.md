@@ -9,9 +9,9 @@
 🛠️ **Others:** Git/GitHub, VPS Deployment  
 
 ### 🔎 Additional Knowledge (basic)
-**Backend:** Java Servlet, Spring Boot, PHP,...  
-**Mobile:** Flutter  
-**Others:** Docker  
+⚙️ **Backend:** Java Servlet, Spring Boot, PHP  
+📱 **Mobile:** Flutter  
+🛠️ **Others:** Docker  
 
 ---
 
