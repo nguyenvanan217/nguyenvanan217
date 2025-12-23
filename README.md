@@ -1,16 +1,27 @@
-## Hi there 👋
+## 🚀 Full-stack Web Developer
 
-<!--
-**nguyenvanan217/nguyenvanan217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Technical Skills
 
-Here are some ideas to get you started:
+- **Frontend:** HTML, CSS, JavaScript, Responsive Design, Tailwind CSS, Bootstrap  
+- **Frameworks:** React, Next.js  
+- **Backend:** Node.js, Express (RESTful APIs)  
+- **Database:** SQL, ORM (Drizzle, Sequelize)  
+- **Web Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DoS, Authentication & Authorization  
+- **Others:** Git/GitHub, VPS Deployment  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Additional Knowledge (basic)
+- Java Servlet, Spring Boot  
+- PHP, Flutter, Docker  
+
+---
+
+### 👥 Founder & Core Developer of `<TAT TEAM/>`
+
+- Building and developing full-stack web projects
+- Key responsibilities:
+  - Backend architecture & API design
+  - Database design and security implementation
+  - System deployment and access control
+- Collaborating using Git/GitHub workflows
+
+🔗 Organization: https://github.com/TAT-GROUP
