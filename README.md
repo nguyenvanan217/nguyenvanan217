@@ -6,7 +6,7 @@
 - **Frameworks:** React, Next.js  
 - **Backend:** Node.js, Express (RESTful APIs)  
 - **Database:** SQL, ORM (Drizzle, Sequelize)  
-- **Web Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DoS, Authentication & Authorization  
+- **Web Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DoS, Authentication & Authorization, ...
 - **Others:** Git/GitHub, VPS Deployment  
 
 ### 🔎 Additional Knowledge (basic)
