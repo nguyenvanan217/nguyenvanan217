@@ -16,7 +16,7 @@
 
 ---
 
-### 👥 Founder & Core Developer of &lt;TAT TEAM/&gt;
+### 👥 Founder & Core Developer of `<TAT TEAM/>`
 Building and developing full-stack web projects, including client-requested features and custom solutions.  
 Key responsibilities:
 
