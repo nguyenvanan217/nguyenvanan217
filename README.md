@@ -1,4 +1,4 @@
-## 🚀 Full-stack Web Developer
+## 🚀 Full-stack Developer
 
 ### 🧠 Technical Skills
 
