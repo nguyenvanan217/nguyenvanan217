@@ -55,7 +55,9 @@ Key responsibilities:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-right:10px;margin-bottom:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="margin-right:10px;margin-bottom:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+     height="50"
+     style="margin-right:10px; margin-bottom:10px; vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin-right:10px;margin-bottom:10px"/>
 </p>
 
