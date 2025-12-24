@@ -49,6 +49,7 @@ Key responsibilities:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" style="margin-right:10px;margin-bottom:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
+  <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/shield-lock.svg" width="40"/>
 
   <!-- Database & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
