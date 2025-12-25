@@ -3,7 +3,7 @@
 ### 🧠 Technical Skills
 🎨 **Frontend:** HTML, CSS, SCSS, JavaScript, Responsive Design, Tailwind CSS, Bootstrap  
 🧩 **Library & Frameworks:** React, Next.js  
-⚙️ **Backend:** Node.js, Express (RESTful APIs)  
+⚙️ **Backend:** Node.js, Express (RESTful APIs, Server-side Rendering: EJS)  
 🗄️ **Database:** SQL, ORM (Drizzle, Sequelize)  
 🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DoS, Authentication & Authorization, ...  
 🛠️ **Tools:** Git/GitHub, Docker  
