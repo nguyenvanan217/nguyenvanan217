@@ -5,7 +5,7 @@
 🧩 **Library & Frameworks:** React, Next.js  
 ⚙️ **Backend:** Node.js, Express (RESTful APIs, Server-side Rendering: EJS)  
 🗄️ **Database:** SQL, ORM (Drizzle, Sequelize)  
-🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DoS, Authentication & Authorization, Clickjacking, ...  
+🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DDoS, DoS, Authentication & Authorization, Clickjacking, ...  
 🛠️ **Tools:** Git/GitHub, Docker  
 🚀 **DevOps / Deployment & SEO:** VPS Deployment, SEO-friendly coding
 
