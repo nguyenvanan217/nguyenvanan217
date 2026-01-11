@@ -1,9 +1,9 @@
 ## 💻 Full-stack Developer
 
 ### 🧠 Technical Skills
-🎨 **Frontend:** HTML, CSS, SCSS, JavaScript, Responsive Design, Tailwind CSS, Bootstrap  
+🎨 **Frontend:** HTML, CSS, SCSS, JavaScript, TypeScript, Responsive Design, Tailwind CSS, Bootstrap  
 🧩 **Library & Frameworks:** React, Next.js  
-⚙️ **Backend:** Node.js, Express (RESTful APIs, Server-side Rendering: EJS)  
+⚙️ **Backend:** Node.js, Express (RESTful APIs, Server-side Rendering: EJS), TypeScript  
 🗄️ **Database:** SQL, ORM (Drizzle, Sequelize)  
 🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DDoS, DoS, Authentication & Authorization, Clickjacking, ...  
 🛠️ **Tools:** Git/GitHub, Docker  
@@ -50,6 +50,7 @@ Key responsibilities:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" style="margin-right:10px;margin-bottom:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
   <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/shield-lock.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38"/>
 
   <!-- Database & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
