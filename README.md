@@ -61,16 +61,12 @@ Key responsibilities:
      style="margin-right:10px; margin-bottom:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin-right:10px;margin-bottom:10px"/>
   <!-- Devops -->
-  <!-- Nginx -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-       height="58"
-  width="52" 
-     style="margin-right:10px;margin-bottom:10px"/>
-
-<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
      height="58"
-  width="52"    
+     width="52"
+     style="margin-right:10px;margin-bottom:10px"/><img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75"
+     height="58"
+     width="52"
      style="margin-right:10px;margin-bottom:10px"/>
-
 </p>
 
