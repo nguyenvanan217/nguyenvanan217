@@ -51,6 +51,7 @@ Key responsibilities:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
   <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/shield-lock.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38"/>
+  <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-spring.png&w=1920&q=75" width="40" />
 
   <!-- Database & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" style="margin-right:10px;margin-bottom:10px"/>
@@ -60,5 +61,8 @@ Key responsibilities:
      height="51"
      style="margin-right:10px; margin-bottom:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin-right:10px;margin-bottom:10px"/>
+  <!-- Devops -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75" width="40" />
 </p>
 
