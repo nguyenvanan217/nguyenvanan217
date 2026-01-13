@@ -69,7 +69,8 @@ Key responsibilities:
      width="60"
      style="margin-right:10px;margin-bottom:10px"/>
   <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-domain.png&w=1920&q=75"
-     height="50"
+     height="65"
+     width="60"
      style="margin-right:10px;margin-bottom:10px"/>
 </p>
 
