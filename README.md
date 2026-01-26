@@ -7,7 +7,7 @@
 🗄️ **Database:** SQL, ORM (Drizzle, Sequelize)  
 🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DDoS, DoS, Authentication & Authorization, Clickjacking, ...  
 🛠️ **Tools:** Git/GitHub, Docker  
-🚀 **DevOps / Deployment & SEO:** VPS Deployment, SEO-friendly coding, CI/CD, Automated & Scheduled Backups
+🚀 **DevOps / Deployment & SEO:** VPS Deployment, CI/CD, Automated & Scheduled Backups, SEO-friendly coding
 
 ### 🔎 Additional Knowledge (basic)
 ⚙️ **Backend:** Java Servlet, Spring Boot, PHP, ...  
