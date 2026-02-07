@@ -51,7 +51,6 @@ Key responsibilities:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://static.vecteezy.com/system/resources/previews/027/401/777/non_2x/modern-technology-cybersecurity-icon-crop-out-free-png.png" width="48" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://png.pngtree.com/png-clipart/20201208/original/pngtree-cyber-%E2%80%8B%E2%80%8Bsecurity-shield-png-image_5610122.jpg" width="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 
 <!-- Database & Tools -->
