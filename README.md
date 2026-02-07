@@ -50,7 +50,7 @@ Key responsibilities:
 <img src="https://skillicons.dev/icons?i=express" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://pngimg.com/uploads/php/php_PNG35.png" height="65" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://pngimg.com/uploads/php/php_PNG35.png" height="65" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://static.vecteezy.com/system/resources/previews/027/401/777/non_2x/modern-technology-cybersecurity-icon-crop-out-free-png.png" width="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
