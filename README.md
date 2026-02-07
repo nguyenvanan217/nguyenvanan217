@@ -72,7 +72,6 @@ Key responsibilities:
      height="65"
      width="60"
      style="margin-right:10px;margin-bottom:10px"/>
-     <img src="https://skillicons.dev/icons?i=cloudflare" height="40" style="margin-right:10px;margin-bottom:10px"/>
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg"
      width="40"
      style="margin-right:10px;margin-bottom:10px"/>
