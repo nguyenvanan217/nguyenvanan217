@@ -61,9 +61,9 @@ Key responsibilities:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 
 <!-- DevOps / Infra -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="55" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75" height="55" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-domain.png&w=1920&q=75" height="55" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75" width="55" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-domain.png&w=1920&q=75" width="55" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="55" style="margin-right:12px;margin-bottom:12px"/>
 </p>
 
