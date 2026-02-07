@@ -57,13 +57,13 @@ Key responsibilities:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" style="margin-right:12px;margin-bottom:12px"/>
 
 <!-- DevOps / Infra -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75" width="55" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-domain.png&w=1920&q=75" width="55" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75" width="65" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-domain.png&w=1920&q=75" width="65" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="57" style="margin-right:12px;margin-bottom:12px"/>
 </p>
 
