@@ -50,7 +50,7 @@ Key responsibilities:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/shield-lock.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/shield-lock.svg" width="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 
 <!-- Database & Tools -->
