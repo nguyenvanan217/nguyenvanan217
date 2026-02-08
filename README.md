@@ -41,7 +41,7 @@ Key responsibilities:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="48" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="62" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 
