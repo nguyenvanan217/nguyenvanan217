@@ -59,7 +59,7 @@ Key responsibilities:
 <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="58" style="margin-right:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://skillicons.dev/icons?i=github" height="50" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" style="margin:8px; vertical-align:middle; transform: translateY(-2px);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" style="margin:8px; vertical-align:middle; transform: translateY(-20px);"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" style="margin-right:12px;margin-bottom:12px"/>
 
 <!-- DevOps / Infra -->
