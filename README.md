@@ -67,7 +67,7 @@ Key responsibilities:
 <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75" width="65" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-domain.png&w=1920&q=75" width="65" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://i.pinimg.com/originals/be/4b/0d/be4b0d668e3191406943a4b883941d54.png"
-     height="52"
+     width="42"
      style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="57" style="margin-right:12px;margin-bottom:20px"/>
 </p>
