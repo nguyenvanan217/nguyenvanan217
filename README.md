@@ -53,7 +53,7 @@ Key responsibilities:
 <img src="http://lofrev.net/wp-content/photos/2017/05/php_emblem.png" height="50" style="margin-right:12px;;margin-left:7px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://static.vecteezy.com/system/resources/previews/027/401/777/non_2x/modern-technology-cybersecurity-icon-crop-out-free-png.png" width="48" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>  
 
 <!-- Database & Tools -->
 <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="48" style="margin-right:12px;margin-bottom:12px"/>
