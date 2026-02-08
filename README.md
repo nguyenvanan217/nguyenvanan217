@@ -34,32 +34,6 @@ Key responsibilities:
 ## 🛠️ Tech Stack
 
 <p align="left">
- <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="42"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="46"/>
-  <br/><br/>
-
-  <!-- Libraries / Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42"/>
-  <img src="https://skillicons.dev/icons?i=express" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
-  <br/><br/>
-
-  <!-- Database -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="42" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
-  <br/><br/>
-
-  <!-- Tools & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42"/>
-  <img src="https://i.pinimg.com/originals/be/4b/0d/be4b0d668e3191406943a4b883941d54.png" height="42" title="Cloudflare"/>
+<!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://skillicons.dev/icons?i=tailwind" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://skillicons.dev/icons?i=express" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="http://lofrev.net/wp-content/photos/2017/05/php_emblem.png" height="50" style="margin-right:12px;;margin-left:7px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://static.vecteezy.com/system/resources/previews/027/401/777/non_2x/modern-technology-cybersecurity-icon-crop-out-free-png.png" width="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <!-- Database & Tools --> <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="58" style="margin-right:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/> <img src="https://skillicons.dev/icons?i=github" height="50" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" style="margin-right:12px;margin-bottom:12px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" style="margin-right:12px;margin-bottom:12px"/> <!-- DevOps / Infra --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" style="margin-right:12px;margin-bottom:12px"/> <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75" width="65" style="margin-right:12px;margin-bottom:12px"/> <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-domain.png&w=1920&q=75" width="65" style="margin-right:12px;margin-bottom:12px"/> <img src="https://i.pinimg.com/originals/be/4b/0d/be4b0d668e3191406943a4b883941d54.png" height="44" style="margin-right:12px;margin-bottom:22px"/> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="57" style="margin-right:12px;margin-bottom:20px"/>
 </p>
 
