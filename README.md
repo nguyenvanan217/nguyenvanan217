@@ -27,7 +27,8 @@ Key responsibilities:
 - Deploying and managing systems with **access control**  
 - Collaborating in a team using **Git/GitHub workflows**  
 
-🔗 Organization: https://github.com/TAT-GROUP
+🔗 Organization: 
+https://tatteam.io.vn
 
 ---
 
