@@ -28,7 +28,7 @@ Key responsibilities:
 - Collaborating in a team using **Git/GitHub workflows**  
 
 🔗 Organization: 
-https://tatteam.io.vn
+https://www.tatteam.io.vn
 
 ---
 
