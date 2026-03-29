@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,100:dc2626&height=180&width=130%&text=Nguyen%20Van%20An&fontSize=50&fontColor=facc15&fontAlignY=40&animation=twinkling&desc=Organization:%20TAT-TEAM&descSize=25&descAlignY=75&section=header" />
+</p>
+
 ## 💻 Full-stack Developer
 
 ### 🧠 Technical Skills
@@ -36,7 +40,6 @@ https://www.tatteam.io.vn
 
 <p align="left">
 <!-- Frontend -->
- <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" style="margin-right:12px;margin-bottom:12px"/>
@@ -73,3 +76,8 @@ https://www.tatteam.io.vn
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="57" style="margin-right:12px;margin-bottom:20px"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=140&width=180%&section=footer" />
+</p>
