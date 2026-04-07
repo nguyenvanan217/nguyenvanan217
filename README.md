@@ -11,6 +11,9 @@
 🗄️ **Database:** SQL, ORM (Drizzle, Sequelize)  
 🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DDoS, DoS, Authentication & Authorization, Clickjacking, ...  
 🛠️ **Tools:** Git/GitHub, Docker  
+🤖 AI Integration:
+- Integrated Supabase and external APIs into AI workflows using MCP (Model Context Protocol)
+- Worked with AI tool ecosystems (e.g., Antigravity) to build automated workflows
 🚀 **DevOps / Deployment & SEO:** VPS Deployment, CI/CD, Automated & Scheduled Backups,<br/>
 Cloudflare (DNS, CDN, SSL/TLS, IPv6, basic WAF & DDoS protection),<br/>
 SEO-friendly coding
