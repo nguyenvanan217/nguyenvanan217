@@ -12,6 +12,7 @@
 🤖 AI Integration:
 - Integrated Supabase and external APIs into AI workflows using MCP (Model Context Protocol)
 - Worked with AI tool ecosystems (e.g., Antigravity) to build automated workflows    
+
 🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DDoS, DoS, Authentication & Authorization, Clickjacking, ...  
 🛠️ **Tools:** Git/GitHub, Docker  
 🚀 **DevOps / Deployment & SEO:** VPS Deployment, CI/CD, Automated & Scheduled Backups,<br/>
