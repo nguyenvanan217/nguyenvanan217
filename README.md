@@ -80,7 +80,7 @@ https://www.tatteam.io.vn
 <img src="https://tabboard.com/dashboard-icons/Software%20Development/dokploy-1.svg" height="60"/>
 <img src="https://i.pinimg.com/originals/be/4b/0d/be4b0d668e3191406943a4b883941d54.png"
      height="44"
-     style="margin-right:12px;margin-bottom:22px; display: block;"/>
+     style="margin-right:12px;margin-bottom:22px;"/>
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="57" style="margin-right:12px;margin-bottom:20px"/>
 </p>
 
