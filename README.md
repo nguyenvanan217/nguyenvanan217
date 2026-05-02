@@ -8,7 +8,7 @@
 🎨 **Frontend:** HTML, CSS, SCSS, JavaScript, TypeScript, Responsive Design, Tailwind CSS, Bootstrap  
 🧩 **Library & Frameworks:** React.js, Next.js  
 ⚙️ **Backend:** Node.js, Express (RESTful APIs, Server-side Rendering: EJS), TypeScript  
-🗄️ **Database:** SQL, ORM (Drizzle, Sequelize)  
+🗄️ **Database & BaaS:** SQL, ORM (Drizzle, Sequelize), Supabase (Auth, Realtime, Storage)  
 🤖 AI Integration:
 - Integrated Supabase and external APIs into AI workflows using MCP (Model Context Protocol)
 - Worked with AI tool ecosystems (e.g., Antigravity) to build automated workflows    
@@ -64,23 +64,19 @@ https://www.tatteam.io.vn
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>  
 
 <!-- Database & Tools -->
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-sql-server/default.svg"
-     width="50"
-     style="margin-right:12px; margin-bottom:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/supabase/default.svg" height="48"/>
+<img src="https://cdn0.iconfinder.com/data/icons/cyber-crime-29/32/sql_network_database_program_server-512.png" height="58" style="margin-right:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://skillicons.dev/icons?i=github" height="50" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" width="55" style="margin:8px; vertical-align:middle; transform: translateY(-20px);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" style="margin:8px; vertical-align:middle; transform: translateY(-20px);"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" style="margin-right:12px;margin-bottom:12px"/>
 
 <!-- DevOps / Infra -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-vps.png&w=1920&q=75" width="65" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://hoidanit.vn/_next/image?url=%2Fimages%2Flogo%2Fdark-domain.png&w=1920&q=75" width="65" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://tabboard.com/dashboard-icons/Software%20Development/dokploy-1.svg" height="60"/>
 <img src="https://i.pinimg.com/originals/be/4b/0d/be4b0d668e3191406943a4b883941d54.png"
      height="44"
-     style="margin-right:12px;margin-bottom:22px;"/>
+     style="margin-right:12px;margin-bottom:22px; display: block;"/>
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="57" style="margin-right:12px;margin-bottom:20px"/>
 </p>
 
