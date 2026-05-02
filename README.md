@@ -67,7 +67,9 @@ https://www.tatteam.io.vn
 <img src="https://cdn0.iconfinder.com/data/icons/cyber-crime-29/32/sql_network_database_program_server-512.png" height="58" style="margin-right:12px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" style="margin-right:12px;margin-bottom:12px"/>
 <img src="https://skillicons.dev/icons?i=github" height="50" style="margin-right:12px;margin-bottom:12px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" style="margin:8px; vertical-align:middle; transform: translateY(-20px);"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg"
+     height="52"
+     style="margin:8px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" style="margin-right:12px;margin-bottom:12px"/>
 
 <!-- DevOps / Infra -->
