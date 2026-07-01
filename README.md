@@ -35,7 +35,7 @@ Key responsibilities:
 - Deploying and managing systems with **access control**  
 - Collaborating in a team using **Git/GitHub workflows**  
 
-🔗 **Organization:** [tatteam.io.vn](https://www.tatteam.io.vn)
+🔗 **Organization:** [tatteam.io.vn](https://www.tatteam.io.vn)  
 ✉️ **Contact:** [contact@tatteam.io.vn](mailto:contact@tatteam.io.vn)
 ---
 
