@@ -41,7 +41,7 @@ Key responsibilities:
 <br>
 <sub>
 ✉️ Contact: contact@tatteam.io.vn
-</sub>
+</sub>  
 ---
 
 ## 🛠️ Tech Stack
