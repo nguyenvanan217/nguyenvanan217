@@ -16,7 +16,7 @@
 🔐 **Security:** XSS, CSRF (Token, SameSite), SQL Injection, IDOR, DDoS, DoS, Authentication & Authorization, Clickjacking, ...  
 🛠️ **Tools:** Git/GitHub, Docker  
 🚀 **DevOps / Deployment & SEO:** VPS Deployment, CI/CD, Automated & Scheduled Backups, Dockploy, Microsoft Azure<br/>
-Cloudflare (DNS, CDN, SSL/TLS, IPv6, basic WAF & DDoS protection), Google Cloud<br/>
+Cloudflare (DNS, CDN, SSL/TLS, IPv6, basic WAF & DDoS protection), Google Cloud.<br/>
 SEO-friendly coding
 
 ### 🔎 Additional Knowledge (basic)
