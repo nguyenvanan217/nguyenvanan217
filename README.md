@@ -88,7 +88,7 @@ Key responsibilities:
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="57" style="margin-right:12px;margin-bottom:20px"/>
 <!-- Google Cloud -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Google_Cloud_icon_%282026%29.svg/1280px-Google_Cloud_icon_%282026%29.svg.png"
-     height="52"
+     height="30"
      style="margin-right:12px;margin-bottom:12px"/>
 </p>
 
