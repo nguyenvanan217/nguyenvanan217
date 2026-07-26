@@ -6,10 +6,13 @@
 Building and developing full-stack web projects, including client-requested features and custom solutions.  
 Key responsibilities:
 
-- Designing **backend architecture** & APIs based on project requirements  
-- Database design and implementing **security measures**  
-- Deploying and managing systems with **access control**  
-- Collaborating in a team using **Git/GitHub workflows**  
+- Leading software development and digital transformation projects
+- Understanding client requirements and delivering tailored software solutions
+- Defining project scope, planning, and leading development teams
+- Designing scalable backend architectures, APIs, and database systems
+- Implementing security best practices and access control
+- Deploying, maintaining, and monitoring production systems
+- Leading and collaborating with developers throughout the project lifecycle
 
 <p>
   🔗 <b>Organization:</b>
