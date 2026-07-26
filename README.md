@@ -17,7 +17,6 @@ Key responsibilities:
   ✉️ <b>Contact:</b>
   <a href="mailto:contact@tatteam.io.vn">contact@tatteam.io.vn</a>
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=140&width=180%&section=footer" />
